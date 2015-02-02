@@ -3,11 +3,18 @@ siteyi ayaga kaldiracak yontemler
 
 İlk olarak yapmanız gereken, google vs. arama motorlarına ekleme talebi göndermek ! 
 
+- Sitenizde olabildiğince js ve frame kodları kullanmamaya dikkat edin
+- 
+- ilk 2 hafta sitenizi sadece 5-6 tane dizine veya topliste ekleyin
+
+- Site haritası oluşturun fakat bunu proğramla değil kullandığınız yazılımla otomatik oluşturun php,asp… ardından .htaccess dosyasından yönlendirin.
+
 Onu buraya birçok sistemle yapabilirsiniz. Ama kendinizin eklemesi daha sağlıklı olacaktır ! 
 
 Sitenizi google ‘a eklediniz. Yapmanız gereken ilk başlarda özgün içerik eklemektir. 
-
 Bunada bir anlamla site içi seo denir. 
+
+
 
 Temel kural kopyala yapıştır yapmamaktır. 
 
@@ -72,6 +79,18 @@ Mesela bir sesli chat siteniz var ve “ Sesli Chat ” aramalarında ilk sayfad
 Öyleyse sitenize ” Sesli Chat ” kelimesi ve title ‘ından link almalısınız. 
 
 Başka türlü zaten çıkamazsınız da ! 
+
+- İçeriklerinizi birden bire yayınlamayın ( elinizdeki dökümanları günlük olarak düzenli bir şekilde ekleyin )
+- 
+- Sayfanıza index sayınız 100 ve üzeri olmadıktan sonra herhangibir reklam koymayın.
+
+- Dış kaynaklı bağlantıları kullanmamaya özen gösterin.
+- 
+- 1 ay boyunca herhangibir siteden backlink satın almayın ( unutmayın google sayfanızı ilk gördüğünde sadece yeni doğmuş bir bebek gibi görür ) ortak ip kullandığınız başka bir siteden link verin.
+- 
+- Youtube dailymotion gibi video sitelerine video upload edin ve açıklamalarına sayfanızın linkini ekleyin ve bunu haftada yeni açılan siteniz için 1 defa yapın.
+- 
+- Rss kaynağınızı feedburner’a yönlendirin ve meta taglarında bunu gösterin.
 
 Bu yöntemleri uygularken daha çok professional olmak istiyorsanız. 
 
